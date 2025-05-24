@@ -23,10 +23,14 @@ This app was built as a fun experiment to understand Android’s sensor framewor
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light](screenshots/demo1.png) | ![Dark](screenshots/demo2.png) |
+| ![Light](demo1.png) | ![Dark](demo2.png) |
 
 ## 🚀 How to Run
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/light-sensor-meme-app.git
+## 📲 Try It Out
+
+Download the APK directly:
+
+👉 [Download app-debug.apk](https://github.com/Ikramik/light-sensor/releases/download/v1.0/app-debug.apk)
+
+> Note: You may need to allow “Unknown Sources” in your Android settings.
